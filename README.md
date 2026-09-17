@@ -98,6 +98,8 @@ Students cannot register for an event when no seats are available.
 ## 6. Project Architecture
 
 The project follows a modular structure with separate packages for models, repositories, utilities, and exceptions.
+
+```text
 EventSphere/
 │
 ├── src/
@@ -135,9 +137,15 @@ EventSphere/
 ├── logs/
 │   └── application.log
 │
-├── out/
+├── screenshots/
+│   ├── main-menu.png
+│   ├── organizer-event.png
+│   ├── student-registration.png
+│   └── organizer-report.png
 │
-└── README.md
+├── README.md
+├── statement.md
+└── .gitignore
 
 ## 7. Technologies Used
 
@@ -152,6 +160,7 @@ No external database or JDBC connection is required.
 ## 8. Java Concepts Used
 
 The project demonstrates important Object-Oriented Programming concepts.
+
 OOP Concepts
 Classes and Objects
 Encapsulation
@@ -289,7 +298,7 @@ git init
 git add .
 git commit -m "Initial EventSphere project"
 git branch -M main
-git remote add origin <YOUR_GITHUB_REPOSITORY_URL>
+git remote add origin https://github.com/anshika25bai10981/EventSphere-.git
 git push -u origin main
 
 Git allows changes to the project to be tracked and maintained through a GitHub repository.
