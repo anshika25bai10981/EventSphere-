@@ -1,0 +1,8 @@
+Student|a@gmail.com|Aroit|a@gmail.com|1234
+Student|25BAI10981|A.ag|ag@gmail.com|1245
+Organizer|F201|ARIKA|arika@gmail.com|1235|Unknown
+Student|25BCE10679|Shruti|shruti@gmail.com|679
+Organizer|F204|Rahul|rahul@gmail.com|204|cse
+Organizer|F207|Aarohi|aarohi@gmail.com|207|cse
+Organizer|F208|Saurabh|saurabh@gmail.com|208|DSW
+Student|25BHI11265|Anushka|anushka@gmail.com|265

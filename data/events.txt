@@ -1,0 +1,5 @@
+100|ROBOTICS|all about technology|12sept|11am|ab1|300|F201
+E02|Seminar|Work with fun|21 09 2026|4pm|ground1|10|F204
+E03|Overnight Hackathon|Best In Time|25|8pm onwards|ab2|300|F207
+E04|Debugging Challenge|No need of Error|22 09 2026|3pm|ab203|50|F207
+E05|Dance Competition|Put on your best shoes|20 09 2026|4pm|openaudi|100|F208
